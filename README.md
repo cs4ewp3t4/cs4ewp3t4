@@ -46,8 +46,8 @@ A typical flow within the proposed scenario includes the following steps: (1) An
 * Videos:
      * https://github.com/massimo-guarascio/cs4e_ebids_asset 
 * Scientific dissemination: 
-     * F. Folino, G. Folino, M. Guarascio, F.S. Pisani, L. Pontieri. On learning effective ensembles of deep neural networks for intrusion detection. Information Fusion, 2021, 72, pp.48-69. doi: https://doi.org/10.1016/j.inffus.2021.02.007.
-     * M. Guarascio, N. Cassavia, F.S. Pisani, G. Manco. Boosting Cyber Threat Intelligence via collaborative intrusion detection. Submitted to FGCS.
+     * Folino, F., G. Folino, M. Guarascio, F.S. Pisani, and L. Pontieri. 2021. "On learning effective ensembles of deep neural networks for intrusion detection." Information Fusion 48-69. 
+     * Guarascio, M., N. Cassavia, F.S. Pisani, and G. Manco. 2021. "Boosting Cyber Threat Intelligence via Collaborative Intrusion Detection." Under Review.  
 
 ### Scenario 3: Adaptive deployment
 
