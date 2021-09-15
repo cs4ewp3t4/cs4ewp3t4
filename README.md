@@ -16,9 +16,9 @@ We propose a general framework of interaction and cooperation with threat intell
 * Videos:
      * https://people.cs.kuleuven.be/~davy.preuveneers/tatis.mp4
 * Scientific dissemination: 
-     * Preuveneers, Davy, et al. &quot;TATIS: trustworthy APIs for threat intelligence sharing with UMA and CP-ABE.&quot; Foundations and Practice of Security. 12th International Symposium, FPS 2019, Toulouse, France, November 5–7, 2019, Revised Selected Papers. Vol. 12056. Springer International Publishing; Switzerland, 2020.
-     * (Preuveneers and Joosen 2021)
-     * (Preuveneers, Joosen and Bernal Bernabe, et al. 2020).
+     * Preuveneers, D., et al. &quot;TATIS: trustworthy APIs for threat intelligence sharing with UMA and CP-ABE.&quot; Foundations and Practice of Security. 12th International Symposium, FPS 2019, Toulouse, France, November 5–7, 2019, Revised Selected Papers. Vol. 12056. Springer International Publishing; Switzerland, 2020.
+     * Preuveneers, D., et al. &quot;Distributed Security Framework for Reliable Threat Intelligence Sharing.&quot; Security and Communication Networks 2020 (2020).
+     * Preuveneers, D., and Wouter J. &quot;Sharing Machine Learning Models as Indicators of Compromise for Cyber Threat Intelligence.&quot; Journal of Cybersecurity and Privacy 1.1 (2021): 140-163.
 
 ### Scenario 2: Enriching the information on detected threats via TDS cooperation and gathered by means of honeypot instances:
 * Online proof-of-concept demonstrators and repositories
@@ -26,8 +26,8 @@ We propose a general framework of interaction and cooperation with threat intell
 * Videos:
      * https://github.com/massimo-guarascio/cs4e_ebids_asset 
 * Scientific dissemination: 
-     * (Folino, et al. 2021)
-     * (Guarascio, et al. 2021)
+     * F. Folino, G. Folino, M. Guarascio, F.S. Pisani, L. Pontieri. On learning effective ensembles of deep neural networks for intrusion detection. Information Fusion, 2021, 72, pp.48-69. doi: https://doi.org/10.1016/j.inffus.2021.02.007.
+     * M. Guarascio, N. Cassavia, F.S. Pisani, G. Manco. Boosting Cyber Threat Intelligence via collaborative intrusion detection. Submitted to FGCS.
 
 ### Scenario 3: Adaptive deployment
 * Online proof-of-concept demonstrators and repositories:
@@ -35,5 +35,5 @@ We propose a general framework of interaction and cooperation with threat intell
 * Videos:
      * [INSERT LINK]
 * Scientific dissemination: 
-     * (Pinto Bastos Martins 2020)
-     * (Dinis da Silva e Barbosa 2020)
+     * Pinto Bastos Martins, Maria Inês. 2020. Anomaly Detection in Cybersecurity. Mater Thesis, https://sigarra.up.pt/fcup/pt/pub_geral.show_file?pi_doc_id=275358. 
+     * Dinis da Silva e Barbosa, Mário. 2020. JBriareos: A Secure and Scalable Distributed Intrusion Detection System. Master Thesis, https://sigarra.up.pt/fcup/pt/pub_geral.show_file?pi_doc_id=274710. 
