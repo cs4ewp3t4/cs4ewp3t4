@@ -13,9 +13,9 @@ o	http://155.54.95.184:8082/anonymizer/AnonymizerAPI.html [PP-CTI anonymizer ser
 - Videos:
 o	https://people.cs.kuleuven.be/~davy.preuveneers/tatis.mp4
 - Scientific dissemination: 
-o (Preuveneers and Joosen 2020)
-o (Preuveneers and Joosen 2021)
-o (Preuveneers, Joosen and Bernal Bernabe, et al. 2020).
+-- (Preuveneers and Joosen 2020)
+-- (Preuveneers and Joosen 2021)
+-- (Preuveneers, Joosen and Bernal Bernabe, et al. 2020).
 
 ### Scenario 2: Enriching the information on detected threats via TDS cooperation and gathered by means of honeypot instances:
 - Online proof-of-concept demonstrators and repositories:
