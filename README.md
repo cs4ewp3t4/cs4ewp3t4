@@ -55,7 +55,7 @@ A typical flow within the proposed scenario includes the following steps: (1) An
 
 Gathering relevant information on attack strategies and sharing precious IoCs to improve the security degree of the entities belonging to the MISP network is the main objective of this use case. In more details, this scenario aims at demonstrating how internal information gathered by means of a pool of honeypots can be used in the context of the security of an infrastructure.  
 
-Two assets collaborate to achieve this aim: (i) Briareos, a HIDS capable of launch Honeypots in any linux system and (ii) Roce, a system devoted to evaluate the fundamental problems of the software contained in a device. The information extracted by Briareos and data from a public APT database are combined by Roce and exploited to yield the probability of compromise of the monitored systems. 
+Two assets collaborate to achieve this aim: (i) Briareos, a HIDS capable of launch Honeypots in any linux system and (ii) Roce, a system devoted to evaluating the fundamental problems of the software contained in a device. The information extracted by Briareos and data from a public APT database are combined by Roce and exploited to yield the probability of compromise of the monitored systems. 
 
 #### Resources 
 
