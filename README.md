@@ -5,11 +5,11 @@ We propose a general framework of interaction and cooperation with threat intell
 ## List of resources
 
 ### Scenario 1: Sharing cyberthreat intelligence in a confidential and privacy-preserving manner
-*	Online proof-of-concept demonstrators and repositories:
- **	https://nuage.cs.kuleuven.be/	[KUL's MISP instance]
- *	https://nuage.cs.kuleuven.be/tatis/	[integration with KUL's MISP instance]
-o	https://ciel.cs.kuleuven.be/tatis/ 	[integration with CNR's MISP instance]
-o	http://155.54.95.184:8082/anonymizer/AnonymizerAPI.html [PP-CTI anonymizer service, integrated with TATIS]
+-	Online proof-of-concept demonstrators and repositories:
+  -	https://nuage.cs.kuleuven.be/	[KUL's MISP instance]
+  -	https://nuage.cs.kuleuven.be/tatis/	[integration with KUL's MISP instance]
+  -	https://ciel.cs.kuleuven.be/tatis/ 	[integration with CNR's MISP instance]
+  - http://155.54.95.184:8082/anonymizer/AnonymizerAPI.html [PP-CTI anonymizer service, integrated with TATIS]
 - Videos:
 o	https://people.cs.kuleuven.be/~davy.preuveneers/tatis.mp4
 - Scientific dissemination: 
