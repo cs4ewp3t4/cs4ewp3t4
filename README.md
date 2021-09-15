@@ -7,26 +7,28 @@ We propose a general framework of interaction and cooperation with threat intell
 ### Scenario 1: Sharing cyberthreat intelligence in a confidential and privacy-preserving manner
 *	Online proof-of-concept demonstrators and repositories:
      * https://nuage.cs.kuleuven.be/	[KUL's MISP instance]
-  -	https://nuage.cs.kuleuven.be/tatis/	[integration with KUL's MISP instance]
-  -	https://ciel.cs.kuleuven.be/tatis/ 	[integration with CNR's MISP instance]
-  - http://155.54.95.184:8082/anonymizer/AnonymizerAPI.html [PP-CTI anonymizer service, integrated with TATIS]
-- Videos:
-o	https://people.cs.kuleuven.be/~davy.preuveneers/tatis.mp4
-- Scientific dissemination: 
--- (Preuveneers and Joosen 2020)
--- (Preuveneers and Joosen 2021)
--- (Preuveneers, Joosen and Bernal Bernabe, et al. 2020).
+     * https://nuage.cs.kuleuven.be/tatis/	[integration with KUL's MISP instance]
+     * https://ciel.cs.kuleuven.be/tatis/ 	[integration with CNR's MISP instance]
+     * http://155.54.95.184:8082/anonymizer/AnonymizerAPI.html [PP-CTI anonymizer service, integrated with TATIS]
+* Videos:
+     * https://people.cs.kuleuven.be/~davy.preuveneers/tatis.mp4
+* Scientific dissemination: 
+     * (Preuveneers and Joosen 2020)
+     * (Preuveneers and Joosen 2021)
+     * (Preuveneers, Joosen and Bernal Bernabe, et al. 2020).
 
 ### Scenario 2: Enriching the information on detected threats via TDS cooperation and gathered by means of honeypot instances:
-- Online proof-of-concept demonstrators and repositories
-o	https://misp1.icar.cnr.it/		[CNR MISP instance]
-- Videos:
-o	https://github.com/massimo-guarascio/cs4e_ebids_asset 
-- Scientific dissemination: (Folino, et al. 2021), (Guarascio, et al. 2021)
+* Online proof-of-concept demonstrators and repositories
+     * https://misp1.icar.cnr.it/		[CNR MISP instance]
+* Videos:
+     * https://github.com/massimo-guarascio/cs4e_ebids_asset 
+     * Scientific dissemination: (Folino, et al. 2021), (Guarascio, et al. 2021)
 
 ### Scenario 3: Adaptive deployment
-- Online proof-of-concept demonstrators and repositories:
-o	[INSERT LINK]
-- Videos:
-o	[INSERT LINK]
-- Scientific dissemination: (Pinto Bastos Martins 2020), (Dinis da Silva e Barbosa 2020)
+* Online proof-of-concept demonstrators and repositories:
+     * [INSERT LINK]
+* Videos:
+     * [INSERT LINK]
+* Scientific dissemination: 
+     * (Pinto Bastos Martins 2020)
+     * (Dinis da Silva e Barbosa 2020)
