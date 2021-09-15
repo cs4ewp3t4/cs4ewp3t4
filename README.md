@@ -1,7 +1,8 @@
+#Overview
 We propose a general framework of interaction and cooperation with threat intelligence services and provided three specific use cases where these services can cooperate. The partners contributed by creating tangible software assets, by integrating them into joint proof-of-concepts, and illustrating the practical feasibility of a modular cybersecurity platform able to provide key information about the status of a system to monitor. This deliverable documented 3 possible integration scenarios, culminating in a variety of videos, online demonstrators and scientific publications. Within these scenarios, we illustrate how such cooperation can (i) improve the performances of the threat prevention and detection systems and minimize the attack surface by strengthening the robustness of machine learning and deep learning models, making them more robust to new threats, false positives and lowering the time to threat detection; and (ii) enable more robust threat intelligence by allowing to better contextualize threat data and devise flexible strategies, methodologies and data formats for collaborative threat intelligence. 
 
 
-**List of resources**
+##List of resources
 **Scenario 1**: Sharing cyberthreat intelligence in a confidential and privacy-preserving manner:
 -	Online proof-of-concept demonstrators and repositories:
   -	https://nuage.cs.kuleuven.be/	[KUL's MISP instance]
