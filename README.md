@@ -4,7 +4,7 @@ We propose a general framework of interaction and cooperation with threat intell
 
 ## List of resources
 
-### Scenario 1: Sharing cyberthreat intelligence in a confidential and privacy-preserving manner:
+### Scenario 1: Sharing cyberthreat intelligence in a confidential and privacy-preserving manner
 -	Online proof-of-concept demonstrators and repositories:
   -	https://nuage.cs.kuleuven.be/	[KUL's MISP instance]
 o	https://nuage.cs.kuleuven.be/tatis/	[integration with KUL's MISP instance]
@@ -18,13 +18,13 @@ o	https://people.cs.kuleuven.be/~davy.preuveneers/tatis.mp4
 -- (Preuveneers, Joosen and Bernal Bernabe, et al. 2020).
 
 ### Scenario 2: Enriching the information on detected threats via TDS cooperation and gathered by means of honeypot instances:
-- Online proof-of-concept demonstrators and repositories:
+- Online proof-of-concept demonstrators and repositories
 o	https://misp1.icar.cnr.it/		[CNR MISP instance]
 - Videos:
 o	https://github.com/massimo-guarascio/cs4e_ebids_asset 
 - Scientific dissemination: (Folino, et al. 2021), (Guarascio, et al. 2021)
 
-### Scenario 3: Adaptive deployment:
+### Scenario 3: Adaptive deployment
 - Online proof-of-concept demonstrators and repositories:
 o	[INSERT LINK]
 - Videos:
