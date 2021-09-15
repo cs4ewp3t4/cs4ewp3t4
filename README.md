@@ -22,7 +22,9 @@ We propose a general framework of interaction and cooperation with threat intell
      * https://misp1.icar.cnr.it/		[CNR MISP instance]
 * Videos:
      * https://github.com/massimo-guarascio/cs4e_ebids_asset 
-     * Scientific dissemination: (Folino, et al. 2021), (Guarascio, et al. 2021)
+* Scientific dissemination: 
+     * (Folino, et al. 2021)
+     * (Guarascio, et al. 2021)
 
 ### Scenario 3: Adaptive deployment
 * Online proof-of-concept demonstrators and repositories:
