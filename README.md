@@ -16,7 +16,7 @@ We propose a general framework of interaction and cooperation with threat intell
 * Videos:
      * https://people.cs.kuleuven.be/~davy.preuveneers/tatis.mp4
 * Scientific dissemination: 
-     * (Preuveneers and Joosen 2020)
+     * Preuveneers, Davy, et al. &quot;TATIS: trustworthy APIs for threat intelligence sharing with UMA and CP-ABE.&quot; Foundations and Practice of Security. 12th International Symposium, FPS 2019, Toulouse, France, November 5–7, 2019, Revised Selected Papers. Vol. 12056. Springer International Publishing; Switzerland, 2020.
      * (Preuveneers and Joosen 2021)
      * (Preuveneers, Joosen and Bernal Bernabe, et al. 2020).
 
