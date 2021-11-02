@@ -63,7 +63,7 @@ Two assets collaborate to achieve this aim: (i) Briareos, a HIDS capable of laun
 * Online proof-of-concept demonstrators and repositories:
      * [INSERT LINK]
 * Videos:
-     * https://dcc.fc.up.pt/~jresende/video/briareos
+     * https://www.dcc.fc.up.pt/~jresende/videos/briareos.mp4
 * Scientific dissemination: 
      * Pinto Bastos Martins, Maria Inês. 2020. Anomaly Detection in Cybersecurity. Mater Thesis, https://sigarra.up.pt/fcup/pt/pub_geral.show_file?pi_doc_id=275358. 
      * Dinis da Silva e Barbosa, Mário. 2020. JBriareos: A Secure and Scalable Distributed Intrusion Detection System. Master Thesis, https://sigarra.up.pt/fcup/pt/pub_geral.show_file?pi_doc_id=274710. 
